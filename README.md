@@ -1,4 +1,4 @@
-<img src="/files/unknown.png" draggable="false">
+<img src="" draggable="false">
 
 
 <table>
@@ -7,7 +7,7 @@
          I am Aaron and I love learning new things. When I'm free, I like to watch anime and code. I am a very active user on Discord as well.
 </p>
     <img src="https://komarev.com/ghpvc/?username=Adriichu&label=Profile%20views&style=for-the-badge" width="200">
-    <img align="right" src="https://lanyard-profile-readme.vercel.app/api/287218738242125826?bg=00000000">
+    <img align="right" src="https://lanyard-profile-readme.vercel.app/api/1030495490963411045?bg=00000000">
     <img align="right" src="https://spotify.aaron.cok.gay/api?theme=dark" width="500">
     
 </td>
@@ -53,17 +53,17 @@
 </br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/Adriichu/Adriichu" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Adriichu&theme=react&border=61dafb&hide_border=true" alt="Adriichu" />
+    <a href="https://github.com/Vaniellee" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Vaniellee&theme=react&border=61dafb&hide_border=true" alt="Vaniellee" />
     </a>
-    <a href="https://github.com/Adriichu/Adriichu" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Adriichu&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <a href="https://github.com/Vaniellee" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Vaniellee&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/Adriichu/Adriichu">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriichu&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaniellee&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
