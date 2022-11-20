@@ -3,6 +3,7 @@
 
 <table>
 	 <td width="1200px">
-	 <h2>About Me:</h2>
+	 
 
-    [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1030495490963411045)](https://discord.com/users/1030495490963411045)
+    [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1030495490963411045)]
+		 (https://discord.com/users/1030495490963411045)
