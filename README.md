@@ -5,4 +5,4 @@
 	 <td width="1200px">
 	 <h2>About Me:</h2>
 
-    <img align="right" src=" https://api.lanyard.rest/v1/users/:1030495490963411045 ">
+    <img align="right" src=" https://api.lanyard.rest/v1/users/1030495490963411045">
