@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/banners/1030495490963411045/700a7e90f05ce6854260e1cf97c15508.webp?size=1024" draggable="false">
+<img src="https://cdn.discordapp.com/banners/1030495490963411045/a_a4de187bd4aa99c3315072813f278f87.gif?size=2048" draggable="false">
 
 	 
 <a href="https://discord.com/users/1030495490963411045"><img
