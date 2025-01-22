@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
 [![Discord](https://img.shields.io/badge/Discord-Chat-7289DA)](your-discord-url)
 
-<p> Back-end developer and high school student passionate about creating innovative solutions 💙 </p>
+<p> Crafting robust back-end solutions and turning complex problems into elegant code 💖 </p>
 
 <h2> 🛠️ Tech Stack </h2>
 
