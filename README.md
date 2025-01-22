@@ -1,39 +1,44 @@
-<!-- Profile Header -->
+<div align="center">
+<h1> 👋 Hi, I'm @mymarius </h1>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mymarius&color=blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
+[![Discord](https://img.shields.io/badge/Discord-Chat-7289DA)](your-discord-url)
+
+<p> Back-end developer and high school student passionate about creating innovative solutions 💙 </p>
+
+<h2> 🛠️ Tech Stack </h2>
+
+**Languages & Frameworks**  
+<img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs&theme=dark" />
+
+**Database & Tools**  
+<img src="https://skillicons.dev/icons?i=mongodb,html,css,vscode,atom,discord&theme=dark" />
+
+**Currently Learning**  
+<img src="https://skillicons.dev/icons?i=python,docker,kubernetes&theme=dark" />
+
+<h2> 📊 GitHub Analytics </h2>
+
 <p align="center">
-  <img src="https://cdn.discordapp.com/banners/1030495490963411045/a_a4de187bd4aa99c3315072813f278f87.gif" alt="Banner" width="100%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mymarius&show_icons=true&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mymarius&layout=compact&theme=dark"/>
 </p>
 
-<!-- Discord Status -->
+<h2> 🏆 Achievements </h2>
+<img src="https://github-profile-trophy.vercel.app/?username=mymarius&theme=onedark&row=2&column=3" />
+
+<h2> 📫 How to reach me </h2>
+
+- 👇 Follow me on [YouTube](https://www.youtube.com/@marius_tracks/)
+- 💬 Message me on [Discord](mymarius)
+- 📧 Email me at: mymarius1@gmail.com
+
+---
 <p align="center">
-  <a href="https://discord.com/users/1030495490963411045">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1030495490963411045?bg=00000000" alt="Discord Status"/>
-  </a>
+  <img src="https://img.shields.io/badge/Code%20Quality-A%2B-brightgreen" />
+  <img src="https://img.shields.io/badge/Always%20Learning-24%2F7-red" />
 </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<!-- Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<!-- Technologies & Tools -->
-<h3 align="center">Technologies & Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <!-- Add more badges as needed -->
-</p>
-
-<!-- Contact -->
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a href="https://discord.com/users/1030495490963411045">
-    <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" />
-  </a>
-  <!-- Add more social links -->
-</p>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</div>
